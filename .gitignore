@@ -1,0 +1,23 @@
+# IntelliJ #
+/.idea/**/shelf/
+/.idea/**/tasks.xml
+/.idea/**/usage.statistics.xml
+/.idea/**/workspace.xml
+
+*.iml
+
+.idea/**/dataSources/
+.idea/**/dataSources.ids
+.idea/**/dataSources.local.xml
+.idea/**/sqlDataSources.xml
+.idea/**/dynamic.xml
+.idea/**/uiDesigner.xml
+.idea/**/dbnavigator.xml
+
+.idea/modules.xml
+.idea/**/gradle.xml
+.idea/**/dictionaries/
+.idea/**/libraries/
+
+# sbt #
+target/
