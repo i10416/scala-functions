@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="sbt: com.google.cloud.functions:functions-framework-api:1.0.1:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/com.google.cloud.functions/functions-framework-api/jars/functions-framework-api-1.0.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/com.google.cloud.functions/functions-framework-api/srcs/functions-framework-api-1.0.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
